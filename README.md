@@ -17,7 +17,7 @@ Join the [discord](https://discord.gg/QQ5jPZcT5N) and interact with the communit
 ### Currently supported assets
 
 - Animations
-- Audio (paid, join discord [Coming Soon!])
+- Audio (paid, join discord)
 - Meshes (paid [Coming Soon])
 
 ## Contributing
